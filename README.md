@@ -1,6 +1,8 @@
 # Boston-Housing-Data
 Project 3- EDA and Data Preparation
 
+![Boston Map](https://naldzgraphics.net/wp-content/uploads/2013/12/12-boston.jpg) 
+https://naldzgraphics.net/maps-colorful-abstract-art/
 
 ### Domain
 This is a natural data set acquired from UCI Machine Learning Database[/housing](https://archive.ics.uci.edu/ml/machine-learning-databases/housing/). It is originally derived from a 1970 census conducted by U.S. Census Service regarding housing in the Boston Massachusettes 
