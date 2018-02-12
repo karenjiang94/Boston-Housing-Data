@@ -2,6 +2,7 @@
 Project 3- EDA and Data Preparation
 
 ![Boston Map](https://naldzgraphics.net/wp-content/uploads/2013/12/12-boston.jpg) 
+
 https://naldzgraphics.net/maps-colorful-abstract-art/
 
 ### Domain
@@ -44,4 +45,5 @@ This is a supervised machine learning problem. We will conduct a PCA to construc
 Our benchmark will be a regression to the median.
 
 ### Performance Metric
-Will will calculate the RMSE to evaluate the performance of our model. 
+We will calculate the [RMSE (Root Mean Square Error)](http://www.statisticshowto.com/rmse/) to evaluate the performance of our model. 
+
