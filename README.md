@@ -12,7 +12,7 @@ The original data set can be found in the publication by Harrison, D. and Rubinf
 
 ### Problem Statement
 
-The target feature is `MEDV`.
+The target feature is `MEDV`, which represents the median value of owner-occupied homes in $1000's. We will perform a supervised machine learning algorithm using linear regression.
 
 ### Dataset Description
 The dataset consists of 506 instances and 14 attributes, with no missing values.
